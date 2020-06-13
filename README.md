@@ -1,0 +1,2 @@
+# SwiftBirdCore
+Qt
