@@ -7,6 +7,7 @@ class SWIFTCORE_EXPORT SwiftCore
 {
 public:
     SwiftCore();
+    void test();
 };
 
 #endif // SWIFTCORE_H
